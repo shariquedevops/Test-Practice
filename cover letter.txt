@@ -1,10 +1,10 @@
 Dear Sir/Madam,
 The opportunity presented in this listing is very interesting, and I believe that my strong technical knowledge and education will make me a very competitive candidate for this position. The key strengths that I possess for success in this position include:
  
-	• I have successfully designed, developed, and supported live use applications 
-	• I strive for continued excellence 
-	• I provide exceptional contributions to customer service for all customers
-	• I have successfully run wireless internet service 
+	â€¢ I have successfully designed, developed, and supported live use applications 
+	â€¢ I strive for continued excellence 
+	â€¢ I provide exceptional contributions to customer service for all customers
+	â€¢ I have successfully run wireless internet service 
 
 With a degree of Bachelor of Computer Science & Information Technology and I have a full understanding of the life cycle of a software development. I also have experience in learning and excelling at new technologies as needed. 
 Please see my resume for additional information on my experience. 
@@ -13,3 +13,5 @@ Thank you for your time and consideration. I look forward to speaking with you a
  
 Regards:
 Hafiz Muhammad Ammad Riaz
+
+File has been converted
